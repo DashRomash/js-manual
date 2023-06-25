@@ -1,0 +1,2 @@
+
+alert("Я Java Script!");
